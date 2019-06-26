@@ -1,0 +1,33 @@
+prbolem defination
+
+Problem defination :
+1. Main vision is to develope Information Management solution in web also a Online resource management system for employee.
+2.Another vision is to build host internet for all employees to access resource management system and IT solution management related information.
+3.Company will build and host all information system in public cloud Google cloud platform.
+4.because of public storage all employee can access data from anywhere.
+5.Because of host internet for all employees they can access human resources and apply .
+6.Employees can put management related information so that all employees are aware about it.
+7. Employee may face issue of transaction
+8.Employees may face issue of accessing human resources management system
+9.This issues should be overcome properly.
+10.All the information will available on AWS.
+
+functional requirement:--
+1)employee login
+2)information management system
+3)feedback
+4)transcation
+5)error management
+
+
+
+
+non-functional requirement
+1)performance
+2)scalability
+3)security
+4)data integrity
+
+
+
+
